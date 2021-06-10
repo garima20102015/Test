@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Application>
+    <Page name="Flight Search">
+        <Object name="fromlocation">
+            <PropertyName>name</PropertyName>
+            <PropertyValue>fromPort</PropertyValue>
+        </Object>
+        <Object name="tolocation">
+        <PropertyName>name</PropertyName>
+        <PropertyValue>toPort</PropertyValue>
+        <Object name="Find Flights">
+            <PropertyName>xpath</PropertyName>
+            <PropertyValue>//input[@value='Find Flights']</PropertyValue>
+        </Object>
+
+
+    </Page>
+
+</Application>
